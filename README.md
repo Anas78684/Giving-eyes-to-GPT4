@@ -1,5 +1,5 @@
 # Giving-eyes-to-GPT4
-error
+# Error
 If you see the following error try running a vpn.
 
 400 User location is not supported for the API use.
